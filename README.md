@@ -1,2 +1,2 @@
 # lpg-gas-meter
-This is a gas meter that leverages the normal wieghing scale to measure its flowrate, volume remaining and transfer the data to cloud for processing and updating the client
+This gas meter utilizes a standard weighing scale to measure its flow rate and the remaining volume. The data is then transmitted to the cloud for processing and to keep the client updated.
